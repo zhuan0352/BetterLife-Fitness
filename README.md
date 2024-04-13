@@ -27,7 +27,7 @@ The Health and Fitness Club Management System is designed to manage and facilita
    - Install PostgreSQL and create a database named `BetterLifeFitness`.
    - Execute the SQL scripts provided in DDL to create the necessary tables and relationships.
 2. **Java Application Setup**
-   - Clone the repository: `git clone https://yourrepositoryurl.git`
+   - Clone the repository: `git clone https://github.com/zhuan0352/BetterLife-Fitness.git`
    - Navigate to the application directory and compile the Java files: `javac *.java`
    - Run the main application: `java Main`
 

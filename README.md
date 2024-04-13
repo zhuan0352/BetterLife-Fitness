@@ -1,8 +1,7 @@
 # BetterLife-Fitness
-# Health and Fitness Club Management System
 
 ## Overview
-The Health and Fitness Club Management System is designed to manage and facilitate the operations of a fitness club. This system handles everything from member registrations, scheduling personal training sessions and fitness classes, to managing room bookings and maintaining equipment.
+This is a Health and Fitness Club Management System is designed to manage and facilitate the operations of a fitness club. This system handles everything from member registrations, scheduling personal training sessions and fitness classes, to managing room bookings and maintaining equipment.
 
 ## Features
 - **Member Management**: Allows new and existing members to manage their profiles, set fitness goals, and track their health metrics.

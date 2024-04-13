@@ -43,7 +43,7 @@ The Health and Fitness Club Management System is designed to manage and facilita
 
 ## Contact
 Zhuoran Liu - zhuoranliu3@cmail.carleton.ca 
-Project Link: https://github.com/yourusername/yourprojectlink
+Project Link: https://github.com/zhuan0352/BetterLife-Fitness.git
 
 ## Acknowledgements
 - [PostgreSQL](https://www.postgresql.org/)

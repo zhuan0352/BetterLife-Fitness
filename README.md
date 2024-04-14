@@ -3,6 +3,11 @@
 ## Overview
 This is a Health and Fitness Club Management System is designed to manage and facilitate the operations of a fitness club. This system handles everything from member registrations, scheduling personal training sessions and fitness classes, to managing room bookings and maintaining equipment.
 
+Video Demonstration
+- Part One: ER Model, Schema Mapping and Exploring DDL and DML
+
+- Part Two: Functionality Walk-through and Code Overview https://youtu.be/mQvc15fZ2b0
+
 ## Features
 - **Member Management**: Allows new and existing members to manage their profiles, set fitness goals, and track their health metrics.
 - **Trainer Management**: Enables trainers to manage their schedules and view details about their assigned members.
